@@ -17,7 +17,7 @@ func main() {
 		& a capacidade de armazenamento
 	*/
 
-	a, b, c := "e", "é", "的"
+	a, b, c := "e", "é", "世界"
 	fmt.Printf("%v - %v - %v\n", a, b, c)
 
 	d, e, f := []byte(a), []byte(b), []byte(c)
