@@ -29,7 +29,7 @@ func types() {
 	fmt.Printf("Type: %T Value: %v\n", ToBe, ToBe)
 	fmt.Printf("Type: %T Value: %v\n", MaxInt, MaxInt)
 	fmt.Printf("Type: %T Value: %v\n", z, z)
-
+	fmt.Println(!true)
 	// assim como int, float recebe 0 como valor padrão
 	var f float64
 	fmt.Printf("%v\n", f)
