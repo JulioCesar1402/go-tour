@@ -11,8 +11,8 @@ https://www.youtube.com/c/AprendaGo/videos
 ```
 
 ## Technologies:
-![Go](https://img.shields.io/badge/golang-blue?style=for-the-badge&logo=go&logoColor=white)
 ![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
+![Go](https://img.shields.io/badge/golang-blue?style=for-the-badge&logo=go&logoColor=white)
 
 
 ## Requirements:
