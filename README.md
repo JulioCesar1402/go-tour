@@ -9,6 +9,9 @@ https://go-tour-br.appspot.com/welcome/1
 ```
 https://www.youtube.com/c/AprendaGo/videos
 ```
+```
+https://www.codewars.com
+```
 
 ## Technologies:
 ![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
