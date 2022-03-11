@@ -2,6 +2,13 @@ package main
 
 import "fmt"
 
+/*
+	Complete the solution so that it reverses the string passed into it.
+
+	'world'  =>  'dlrow'
+	'word'   =>  'drow'
+*/
+
 // ! funciona porem retorna um erro no codewars (out of range?)
 // func Solution(word string) string {
 // 	if len(word) == 1 {
